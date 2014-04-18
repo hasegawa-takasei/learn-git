@@ -1,4 +1,3 @@
 learn-git
 =========
-test
-sample
+hogehoge
